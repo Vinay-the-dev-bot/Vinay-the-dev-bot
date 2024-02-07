@@ -13,7 +13,7 @@ Passionate full-stack web developer specialized in MERN stack with a focus on cr
 </p>
 
 <p>🌍 I hail from Bagalkot, Karnataka.</p>
-<p>🔥 Visit my <a href="https://vinay-the-dev-bot.github.io/" >Portfolio</a> for more details.</p>
+<p>🔥 Visit my <a href="https://vinay-the-dev-bot.github.io/" target="_blank" >Portfolio</a> for more details.</p>
 
 ![Coding Animation](<Coding Animation.gif>)
 
